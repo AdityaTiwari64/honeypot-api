@@ -1,0 +1,25 @@
+{
+    "sessionId": "test-session-001",
+    "message": {
+        "sender": "scammer",
+        "text": "Send money to scammer@paytm or account number 1234567890123 immediately",
+        "timestamp": 1770005530000
+    },
+    "conversationHistory": [
+        {
+            "sender": "scammer",
+            "text": "Your bank account will be blocked today. Verify immediately.",
+            "timestamp": 1770005528731
+        },
+        {
+            "sender": "user",
+            "text": "Why will my account be blocked?",
+            "timestamp": 1770005529000
+        }
+    ],
+    "metadata": {
+        "channel": "SMS",
+        "language": "English",
+        "locale": "IN"
+    }
+}
